@@ -4,11 +4,17 @@ Aplicación Flutter para seguimiento de abandono del tabaco y gestión de antojo
 
 ## � Documentación
 
-- Inicio rápido: docs/getting-started.md
-- Setup y troubleshooting: docs/setup-troubleshooting.md
-- Build Android (APK/AppBundle): docs/build-android-apk.md
-- Estado del proyecto: docs/project-status.md
-- Notas de versión: docs/release-notes.md
+### Usuario
+- Inicio rápido: [docs/getting-started.md](docs/getting-started.md)
+- Setup y troubleshooting: [docs/setup-troubleshooting.md](docs/setup-troubleshooting.md)
+- Build Android (APK/AppBundle): [docs/build-android-apk.md](docs/build-android-apk.md)
+- Estado del proyecto: [docs/project-status.md](docs/project-status.md)
+- Notas de versión: [docs/release-notes.md](docs/release-notes.md)
+
+### Desarrollador
+- **Arquitectura**: [docs/architecture.md](docs/architecture.md) - Diseño y estructura del sistema
+- **Guía de Refactorización**: [REFACTORING_GUIDE.md](REFACTORING_GUIDE.md) - Mejoras de tipo y seguridad
+- **Mejores Prácticas**: [docs/best-practices.md](docs/best-practices.md) - Estándares de código Flutter/Dart
 
 ## ⚙️ Requisitos
 
